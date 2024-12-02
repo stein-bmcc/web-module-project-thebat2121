@@ -1,0 +1,30 @@
+img, video{
+	max-width: 100%;
+	height: auto;
+}
+    
+        body{
+            background-color: #020202;
+            color: white;
+            line-height: 1.5;
+            max-width: 70ch;
+            margin-left: auto;
+            margin-right: auto;
+          }
+          h1{font-size: xx-large;}
+          h1{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+          p{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+          h2{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+         
+          a{
+            color: 
+        rgb(255, 255, 255);
+        }
+        a:hover{
+            color: 
+        gainsboro;
+        }
+        a:visited{
+            color: 
+        red;
+        }
